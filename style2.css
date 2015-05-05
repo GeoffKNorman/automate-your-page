@@ -1,0 +1,68 @@
+
+/* {
+   outline: 1px solid red !important;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} */
+
+.image {
+	max-width: 460px;
+}
+
+.description {
+    max-width: 500px;
+  margin:  auto;
+  padding: 10px;
+  color: #7C8B88;
+     font-size: 24px;
+ }
+
+.title {
+	background-color: #33BEBE;
+  color: white;
+  font-size: 48px;
+  font-family: Helvetica;
+  text-align: center;
+  padding: 20px;
+ 	max-width: 1138px;
+  text-align: left;
+  margin: 0 auto;
+
+}
+
+.app {
+  
+	max-width: 1138px;
+	margin: 0 auto;
+	display: -webkit-flex;
+    display: flex;
+
+}
+
+element.style {
+	display: -webkit-flex;
+    display: flex;
+}
+
+#class {
+	display: flex
+}
+
+#content {
+	
+}
+
+
+
+
+body {
+    font-family: Helvetica;
+     margin: 0 auto;
+     }
+
+ 
+
